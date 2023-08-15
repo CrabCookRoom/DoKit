@@ -16,7 +16,6 @@ dependencies:
   package_info: ^2.0.0
   shared_preferences: ^2.0.5
   image: ^3.0.2
-  google_fonts: ^2.0.0
   string_scanner: ^1.0.5
 
 dev_dependencies:
